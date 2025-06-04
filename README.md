@@ -29,7 +29,6 @@ amazon-clone/
 
 ## 📸 Screenshots
 
-> *(You can add screenshots here by uploading images and linking like below)*
 
 ![Amazon Clone - Homepage](https://github.com/user-attachments/assets/07e6de2c-c4ac-46e3-9fdf-d283ee733c12)
 ![Amazon Clone - Product Section](https://github.com/user-attachments/assets/263b4dab-b601-46fd-bf69-086eeca9a875)
